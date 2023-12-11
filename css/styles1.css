@@ -31631,3 +31631,13 @@ font-weight: 800;
 .boards-page h3 {
     font-size: 22px;
 }
+.contact-form.form-style-2 button {
+    margin-top: 25px !important;
+    background-color: transparent;
+    border: 1px solid white;
+    height: 50px;
+    line-height: 51px;
+    padding: 0px 25px;
+    font-size: 15px;
+    border-radius: 5px;
+}
