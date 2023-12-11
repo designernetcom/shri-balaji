@@ -31657,3 +31657,8 @@ font-weight: 800;
     padding: 30px 0 20px !important;
     width: 100%;
 }
+@media screen and (min-width: 580px) {
+.top-right { {
+	margin-top : 10px !important;
+}
+}
