@@ -31601,6 +31601,9 @@ th {
     .nb-form textarea {
         height: 80px;
     }
+.img-form img {
+    width: 50px;
+}
   }
   .nb-form button {
     font-size: 15px;
