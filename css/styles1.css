@@ -31660,5 +31660,6 @@ font-weight: 800;
 @media screen and (min-width: 580px) {
 .top-right { {
 	margin-top : 10px !important;
+	flex-direction : column;
 }
 }
